@@ -1,0 +1,24 @@
+{
+  "submissions": [
+    {
+      "name": "namehere1",
+      "image-url": "https://ipfs.io/ipfs/example1"
+    },
+    {
+      "name": "namehere2",
+      "image-url": "https://ipfs.io/ipfs/example2"
+    },
+    {
+      "name": "namehere3",
+      "image-url": "https://ipfs.io/ipfs/example3"
+    },
+    {
+      "name": "namehere4",
+      "image-url": "https://ipfs.io/ipfs/example4"
+    },
+    {
+      "name": "namehere5",
+      "image-url": "https://ipfs.io/ipfs/example5"
+    }
+  ]
+}
